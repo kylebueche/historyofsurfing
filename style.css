@@ -1,0 +1,18 @@
+body {
+  background-image: url('https://hips.hearstapps.com/hmg-prod/images/8977ada6-34f2-47c4-ad3c-82e1a386e909-640f1c89d6a97.jpeg?resize=980:*');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color:blue;
+  text-align: center;
+  font-family: "Book Antiqua";
+  font-size: 50px;
+}
+h2 {
+  font-family: "fangsong";
+  font-size: 40px;
+}
+p {
+  font-size: 30px;
+}
